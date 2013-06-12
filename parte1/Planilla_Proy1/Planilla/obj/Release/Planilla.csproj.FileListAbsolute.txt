@@ -1,5 +1,0 @@
-D:\UAGRM\TALLER DE GRADO I\RRHH\Planilla\Planilla\bin\Planilla.dll
-D:\UAGRM\TALLER DE GRADO I\RRHH\Planilla\Planilla\bin\Planilla.pdb
-D:\UAGRM\TALLER DE GRADO I\RRHH\Planilla\Planilla\obj\Release\ResolveAssemblyReference.cache
-D:\UAGRM\TALLER DE GRADO I\RRHH\Planilla\Planilla\obj\Release\Planilla.dll
-D:\UAGRM\TALLER DE GRADO I\RRHH\Planilla\Planilla\obj\Release\Planilla.pdb
