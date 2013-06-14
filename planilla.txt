@@ -1,15 +1,1 @@
-esta es la version 1
-
-
-esto es a prueb
-
-123a
-
-
-
-version1.3
-
-version1.4
-
-VersionFinal
-
+Esta es la version base
